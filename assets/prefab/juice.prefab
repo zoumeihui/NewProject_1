@@ -1,0 +1,220 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "juice",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 13
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 318,
+      "height": 292
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "18ca2MYA4BLwp44GYpFDAd+",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "juices": [
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      },
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 6
+      },
+      {
+        "__id__": 7
+      },
+      {
+        "__id__": 8
+      },
+      {
+        "__id__": 9
+      },
+      {
+        "__id__": 10
+      },
+      {
+        "__id__": 11
+      },
+      {
+        "__id__": 12
+      }
+    ],
+    "id": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "JuiceItem",
+    "water": {
+      "__uuid__": "d5e1296b-bd45-4590-9c85-da374b856593"
+    },
+    "bg": {
+      "__uuid__": "e58320ae-20c2-48d5-a3a4-2f4f51b5d749"
+    }
+  },
+  {
+    "__type__": "JuiceItem",
+    "water": {
+      "__uuid__": "0fcf68ec-db53-4b23-bf75-97d2975558cb"
+    },
+    "bg": {
+      "__uuid__": "dfabfd30-a44c-46c6-a8d7-8584baf9e0a8"
+    }
+  },
+  {
+    "__type__": "JuiceItem",
+    "water": {
+      "__uuid__": "744fe869-bc41-48a4-ae47-c85167e57105"
+    },
+    "bg": {
+      "__uuid__": "fc864b27-43ab-49b1-ae8a-985d60a1ebbd"
+    }
+  },
+  {
+    "__type__": "JuiceItem",
+    "water": {
+      "__uuid__": "be489343-487d-4f91-92e5-d2039c374366"
+    },
+    "bg": {
+      "__uuid__": "27c01e80-e264-45be-a6c1-14be35ba2da3"
+    }
+  },
+  {
+    "__type__": "JuiceItem",
+    "water": {
+      "__uuid__": "534cfd9d-1b11-4964-82c2-c7a8042ec69f"
+    },
+    "bg": {
+      "__uuid__": "d93a9a48-970e-4758-a31f-8afd997d0e18"
+    }
+  },
+  {
+    "__type__": "JuiceItem",
+    "water": {
+      "__uuid__": "e1ae8e73-8c2f-43ae-83c7-83c1928d932d"
+    },
+    "bg": {
+      "__uuid__": "ad91d70d-494f-4b26-8d68-19bda9380f32"
+    }
+  },
+  {
+    "__type__": "JuiceItem",
+    "water": {
+      "__uuid__": "69f6e9b3-d8f4-4045-a4df-870f7ae09319"
+    },
+    "bg": {
+      "__uuid__": "92611f4b-7e58-4e00-bb0f-a01fbbf8da02"
+    }
+  },
+  {
+    "__type__": "JuiceItem",
+    "water": {
+      "__uuid__": "aed23afe-3060-40fd-b42f-a4eb99fe04d7"
+    },
+    "bg": {
+      "__uuid__": "ea6a7172-2668-47cb-a46e-550165c49547"
+    }
+  },
+  {
+    "__type__": "JuiceItem",
+    "water": {
+      "__uuid__": "b436b919-172c-45fe-8ddc-48742cf4c768"
+    },
+    "bg": {
+      "__uuid__": "566f7afa-0213-4a9f-abd0-53ccf6bef68e"
+    }
+  },
+  {
+    "__type__": "JuiceItem",
+    "water": {
+      "__uuid__": "618efac2-4efe-4c04-ac7b-41b33dce5b69"
+    },
+    "bg": {
+      "__uuid__": "6c717448-054e-4dd2-954d-c8cd8988d177"
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "46e1fae0-1158-4ae5-b59a-88e4268e90e9"
+    },
+    "fileId": "",
+    "sync": false
+  }
+]
